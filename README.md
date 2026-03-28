@@ -52,13 +52,6 @@ python main.py
 
 ---
 
-## 📸 Sample Output
-
-- Heatmap showing relationships between Quantity, Price, and Revenue  
-- Regression line showing trend between Quantity and Revenue  
-
----
-
 ## 🎯 Goal
 
 This project demonstrates how raw sales data can be transformed into meaningful insights and predictions using Data Science techniques.
