@@ -39,3 +39,41 @@ The dataset contains:
 
 ```bash
 pip install -r requirements.txt
+python main.py
+```
+
+## 📊 Output
+
+- Total Revenue Calculation  
+- Top Selling Product  
+- Correlation Heatmap  
+- Linear Regression Graph  
+- Classification Accuracy  
+
+---
+
+## 📸 Sample Output
+
+- Heatmap showing relationships between Quantity, Price, and Revenue  
+- Regression line showing trend between Quantity and Revenue  
+
+---
+
+## 🎯 Goal
+
+This project demonstrates how raw sales data can be transformed into meaningful insights and predictions using Data Science techniques.
+
+---
+
+## ⭐ Future Improvements
+
+- Add Flask Web Dashboard  
+- Real-time Data Integration  
+- Advanced ML Models  
+- Deployment on Cloud  
+
+## 👨‍💻 Author
+
+Vishnu  
+
+---
